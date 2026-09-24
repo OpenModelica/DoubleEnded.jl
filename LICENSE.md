@@ -2,7 +2,7 @@ The source code in this repository is licensed according to the OSMC-PL version 
 
     This file is part of OpenModelica.
 
-    Copyright (c) 1998-CurrentYear, Open Source Modelica Consortium (OSMC), c/o Linköpings universitet, Department of Computer and Information Science, SE-58183 Linköping, Sweden.
+    Copyright (c) 1998-2026, Open Source Modelica Consortium (OSMC), c/o Linköpings universitet, Department of Computer and Information Science, SE-58183 Linköping, Sweden.
 
     All rights reserved.
 
