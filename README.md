@@ -96,6 +96,13 @@ Julia 1.13 (`.github/workflows/CI.yml`).
 
 ## License
 
-The code is licensed under the GNU Affero General Public License v3 or the
-OSMC Public License v1.8, at the recipient's choice (source file header). The
-full texts are in `LICENSE.md`.
+The code is dual licensed. Use it under either of:
+
+- the GNU Affero General Public License v3 (AGPL-3.0), or
+- the OSMC Public License v1.8 (OSMC-PL 1.8),
+
+at your choice, as the header of `src/DoubleEnded.jl` says. The OSMC-PL modes
+besides AGPL (Internal-EPL, External-EPL) are for OSMC members.
+
+`LICENSE.md` holds the OSMC-PL definition and header, then the AGPL v3 text.
+The Julia registries' license check detects AGPL-3.0 in it.
