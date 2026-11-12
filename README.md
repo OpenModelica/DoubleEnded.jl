@@ -1,4 +1,4 @@
-# DoubleEnded
+# DoubleEnded [![Tests](https://github.com/OpenModelica/DoubleEnded.jl/actions/workflows/CI.yml/badge.svg?branch=master)](https://github.com/OpenModelica/DoubleEnded.jl/actions/workflows/CI.yml)
 
 `DoubleEnded` provides `MutableList`, a mutable double-ended list.
 It stores its elements in the immutable singly linked list of
